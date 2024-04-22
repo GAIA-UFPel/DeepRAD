@@ -25,3 +25,5 @@ datasets
 !datasets/*.md
 !datasets/*.py
 #!Dataset/*.zip
+
+results
